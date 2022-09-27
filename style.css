@@ -1,0 +1,46 @@
+body {
+    background-color: #d0e49a;
+    margin: 10% 20%;
+    color:black;
+    font-family: Arial, "sans serif";
+
+  }
+
+  #feild{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    border-radius: 5%;
+    border-color: blue;
+    border-style: dotted;
+    background-color: forestgreen;
+    color:darkturquoise;
+  }
+
+  #fieldd{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    border-radius: 5%;
+    border-color:crimson;
+    border-style:double;
+    background-color: chocolate;
+  }
+
+  #list{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    border-radius: 5%;
+    border-color:blueviolet;
+    border-style:double;
+    background-color: forestgreen;
+    color:deeppink;
+  }
+  #odl, #udl{
+    color:indigo;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    text-decoration:underline;
+  }
